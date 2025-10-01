@@ -40,7 +40,7 @@ npm start
 
 4. **Open index.html in your browser if no build system is used.**
 
-## Features
+## ✨ Features
 
 - 🌐 **Responsive design** – Looks good on desktop, tablet, and mobile.
 
