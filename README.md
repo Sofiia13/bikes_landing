@@ -1,20 +1,15 @@
-# Bikes Landing Page
+# 🚴 Bikes Landing Page
 
-## Description
+## 📄 Description
 
 This project is a responsive landing page for a bike shop. It showcases different bike models, provides product details, and includes interactive elements for a modern, user-friendly browsing experience.
 
-## Live Preview
+## 🌐 Live Preview
 
 Check out the live version of the landing page here:  
 [DEMO-LINK](https://sofiia13.github.io/bikes_landing/)
 
-## Design Reference
-
-The design is inspired by modern bike shop landing pages, featuring clean layouts and intuitive navigation:  
-[Bike Landing Page – Behance](https://www.behance.net/gallery/205918781/Bike-landing-page-Design-UI-UX)
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML5** – Semantic markup for structure
 - **CSS3** – Styling with Flexbox and Grid
@@ -23,7 +18,7 @@ The design is inspired by modern bike shop landing pages, featuring clean layout
 - **Git** – Version control
 - **GitHub Pages** – Hosting the live site
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository:**
 
