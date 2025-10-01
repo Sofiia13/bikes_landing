@@ -14,7 +14,6 @@ Check out the live version of the landing page here:
 - **HTML5** – Semantic markup for structure
 - **CSS3** – Styling with Flexbox and Grid
 - **Sass (SCSS)** – Modular and maintainable styles
-- **JavaScript** – For interactivity and dynamic content
 - **Git** – Version control
 - **GitHub Pages** – Hosting the live site
 
